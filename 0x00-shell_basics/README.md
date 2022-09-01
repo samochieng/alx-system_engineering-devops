@@ -16,6 +16,9 @@ Display current directory contents, including hidden files
 5-listfilesdigitonly
 Display current directory contents
 
+6-firstdirectory
+script that creates a directory
+
 102-tree
 Creates multiple directories
 
