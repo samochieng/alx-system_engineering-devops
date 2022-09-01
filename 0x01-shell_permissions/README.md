@@ -1,4 +1,4 @@
-0-iam_betty
+ange_owner_and_group0-iam_betty
 switches the current user
 
 1-who_am_i
@@ -40,7 +40,8 @@ creates a directory called my_dir with permissions
 13-change_group
 changes the group owner 
 
-
+100-change_owner_and_group
+changes the owner and group owner
 
 
 
