@@ -43,6 +43,9 @@ changes the group owner
 100-change_owner_and_group
 changes the owner and group owner
 
+101-symbolic_link_permissions
+symbolic link permissions
+
 
 
 
