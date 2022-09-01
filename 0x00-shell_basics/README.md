@@ -1,6 +1,9 @@
 0-current_working_directory
 Print absolute pathname
 
+1-listit
+Display the contents list of your current directory
+
 102-tree
 Creates multiple directories
 
