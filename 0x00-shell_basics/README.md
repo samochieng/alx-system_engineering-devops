@@ -25,6 +25,9 @@ Move the file
 8-firstdelete
 Delete the file betty
 
+9-firstdirdeletion
+Delete the directory my_first_directory
+
 102-tree
 Creates multiple directories
 
