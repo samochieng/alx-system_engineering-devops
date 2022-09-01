@@ -18,3 +18,6 @@ adds execute permission
 
 6-multiple_permissions
 adds permissions to 3 groups
+
+7-everybody
+adds execution permission to all
