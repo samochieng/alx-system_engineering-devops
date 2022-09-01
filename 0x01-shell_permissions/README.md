@@ -12,3 +12,6 @@ changes the owner of the file
 
 4-empty
 creates an empty file
+
+5-execute
+adds execute permission
