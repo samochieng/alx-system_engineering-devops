@@ -40,6 +40,9 @@ prints the type of the file
 13-symbolic_link
 Create a symbolic link
 
+14-copy_html
+Copy HTML files
+
 102-tree
 Creates multiple directories
 
