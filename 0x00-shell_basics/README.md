@@ -22,6 +22,9 @@ script that creates a directory
 7-movethatfile
 Move the file
 
+8-firstdelete
+Delete the file betty
+
 102-tree
 Creates multiple directories
 
