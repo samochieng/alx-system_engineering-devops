@@ -24,3 +24,6 @@ adds execution permission to all
 
 8-James_Bond
 sets the permissions
+
+9-John_Doe
+sets the mode of the file
