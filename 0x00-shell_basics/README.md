@@ -37,6 +37,9 @@ lists all files
 12-file_type
 prints the type of the file
 
+13-symbolic_link
+Create a symbolic link
+
 102-tree
 Creates multiple directories
 
