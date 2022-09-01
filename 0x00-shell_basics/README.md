@@ -28,6 +28,9 @@ Delete the file betty
 9-firstdirdeletion
 Delete the directory my_first_directory
 
+10-back
+changes the working directory to the previous one
+
 102-tree
 Creates multiple directories
 
