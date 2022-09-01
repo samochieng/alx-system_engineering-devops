@@ -9,3 +9,6 @@ prints all the groups the current user is part of
 
 3-new_owner
 changes the owner of the file
+
+4-empty
+creates an empty file
