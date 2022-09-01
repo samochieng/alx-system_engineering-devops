@@ -33,3 +33,6 @@ sets the mode of hello the same as olleh’s
 
 11-directories_permissions
 adds execute permission to all subdirectories
+
+12-directory_permissions
+creates a directory called my_dir with permissions
