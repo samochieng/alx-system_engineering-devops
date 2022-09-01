@@ -27,3 +27,6 @@ sets the permissions
 
 9-John_Doe
 sets the mode of the file
+
+10-mirror_permissions
+sets the mode of hello the same as olleh’s
