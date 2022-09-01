@@ -30,3 +30,6 @@ sets the mode of the file
 
 10-mirror_permissions
 sets the mode of hello the same as olleh’s
+
+11-directories_permissions
+adds execute permission to all subdirectories
