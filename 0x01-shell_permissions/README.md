@@ -21,3 +21,6 @@ adds permissions to 3 groups
 
 7-everybody
 adds execution permission to all
+
+8-James_Bond
+sets the permissions
