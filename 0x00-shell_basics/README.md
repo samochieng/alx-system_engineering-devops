@@ -34,6 +34,9 @@ changes the working directory to the previous one
 11-lists
 lists all files
 
+12-file_type
+prints the type of the file
+
 102-tree
 Creates multiple directories
 
