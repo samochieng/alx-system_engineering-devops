@@ -19,6 +19,9 @@ Display current directory contents
 6-firstdirectory
 script that creates a directory
 
+7-movethatfile
+Move the file
+
 102-tree
 Creates multiple directories
 
