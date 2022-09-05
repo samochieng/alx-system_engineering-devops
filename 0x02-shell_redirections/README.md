@@ -39,3 +39,6 @@ displays the 10 newest files
 
 13-unique
 prints only words that appear exactly once
+
+14-findthatword
+Display lines containing the pattern “root”
