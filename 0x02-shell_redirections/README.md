@@ -42,3 +42,6 @@ prints only words that appear exactly once
 
 14-findthatword
 Display lines containing the pattern “root”
+
+15-countthatword
+Display the number of lines that contain the pattern “bin”
