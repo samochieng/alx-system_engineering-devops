@@ -1,6 +1,9 @@
 0-hello_world
 prints “Hello, World”
 
+1-confused_smiley
+displays a confused smiley
+
 10-no_more_js
 deletes all the .js files 
 
