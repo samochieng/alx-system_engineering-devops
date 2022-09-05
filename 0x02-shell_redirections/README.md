@@ -23,7 +23,10 @@ displays the third line
 creates a file
 
 8-cwd_state
-writes into the file  
+writes into the file 
+
+9-duplicate_last_line
+duplicates the last line of the file  
 
 10-no_more_js
 deletes all the .js files 
