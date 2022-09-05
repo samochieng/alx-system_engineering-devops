@@ -17,4 +17,7 @@ Display the last 10 lines
 Display the first 10 lines
 
 6-third_line
-displays the third line  
+displays the third line 
+
+7-file
+creates a file 
