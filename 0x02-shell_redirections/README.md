@@ -37,4 +37,5 @@ counts the number of directories and sub-directories
 12-newest_files
 displays the 10 newest files
 
-
+13-unique
+prints only words that appear exactly once
