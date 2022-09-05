@@ -3,3 +3,6 @@ prints “Hello, World”, followed by a new line
 
 1-confused_smiley
 displays a confused smiley
+
+2-hellofile
+content of the /etc/passwd file
