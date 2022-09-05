@@ -60,3 +60,6 @@ Replace all characters A and c from input to Z and e
 
 20-hiago
 removes all letters c and C
+
+21-reverse
+reverse its input
