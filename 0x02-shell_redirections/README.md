@@ -8,4 +8,7 @@ displays a confused smiley
 Display the content of the /etc/passwd
 
 3-twofiles
-Display the content of 2 
+Display the content of 2
+
+4-lastlines
+Display the last 10 lines 
