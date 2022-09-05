@@ -23,4 +23,7 @@ displays the third line
 creates a file
 
 8-cwd_state
-script that writes into the file 
+script that writes into the file
+
+9-duplicate_last_line
+duplicates the last line 
