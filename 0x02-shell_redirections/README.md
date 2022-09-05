@@ -18,3 +18,6 @@ Display the first 10 lines
 
 6-third_line
 displays the third line 
+
+8-cwd_state
+writes into the file ls_cwd_content
