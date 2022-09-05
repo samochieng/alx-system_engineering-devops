@@ -6,3 +6,6 @@ displays a confused smiley
 
 2-hellofile
 content of the /etc/passwd file
+
+3-twofiles
+Display the content of 2 files
