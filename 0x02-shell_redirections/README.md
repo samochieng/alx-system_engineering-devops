@@ -72,3 +72,6 @@ finds all empty files and directories
 
 101-gifs
 lists all the files with a .gif
+
+102-acrostic
+An acrostic is a poem
