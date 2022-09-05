@@ -10,6 +10,9 @@ content of the /etc/passwd
 3-twofiles
 Display the content of 2 files
 
+4-lastlines
+Display the last 10 lines 
+
 10-no_more_js
 deletes all the .js files 
 
