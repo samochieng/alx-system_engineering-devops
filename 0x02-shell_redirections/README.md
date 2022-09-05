@@ -75,3 +75,6 @@ lists all the files with a .gif
 
 102-acrostic
 An acrostic is a poem
+
+103-the_biggest_fan
+parses web servers logs in TSV
