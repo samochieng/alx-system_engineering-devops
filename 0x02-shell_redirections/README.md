@@ -20,4 +20,7 @@ Display the first 10 lines
 displays the third line 
 
 7-file
-creates a file 
+creates a file
+
+8-cwd_state
+script that writes into the file 
