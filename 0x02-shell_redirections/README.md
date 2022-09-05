@@ -69,3 +69,6 @@ displays all users and their home directories
 
 100-empty_casks
 finds all empty files and directories
+
+101-gifs
+lists all the files with a .gif
