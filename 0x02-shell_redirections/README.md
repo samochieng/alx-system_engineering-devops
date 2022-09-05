@@ -51,3 +51,6 @@ pattern “root” and 3 lines after
 
 17-hidethisword
 do not contain the pattern “bin”
+
+18-letteronly
+Display all lines starting with a letter
