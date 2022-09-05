@@ -4,6 +4,9 @@ prints “Hello, World”
 1-confused_smiley
 displays a confused smiley
 
+2-hellofile
+content of the /etc/passwd
+
 10-no_more_js
 deletes all the .js files 
 
