@@ -20,7 +20,10 @@ Display the first 10 lines
 displays the third line
 
 7-file
-creates a file 
+creates a file
+
+8-cwd_state
+writes into the file  
 
 10-no_more_js
 deletes all the .js files 
