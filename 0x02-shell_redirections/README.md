@@ -66,3 +66,6 @@ reverse its input
 
 22-users_and_homes
 displays all users and their home directories
+
+100-empty_casks
+finds all empty files and directories
