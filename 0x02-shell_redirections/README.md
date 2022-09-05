@@ -14,4 +14,7 @@ Display the content of 2
 Display the last 10 lines
 
 5-firstlines
-Display the first 10 lines 
+Display the first 10 lines
+
+6-third_line
+displays the third line  
