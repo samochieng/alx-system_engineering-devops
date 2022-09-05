@@ -14,7 +14,10 @@ Display the content of 2 files
 Display the last 10 lines
 
 5-firstlines
-Display the first 10 lines 
+Display the first 10 lines
+
+6-third_line
+displays the third line 
 
 10-no_more_js
 deletes all the .js files 
