@@ -17,7 +17,10 @@ Display the last 10 lines
 Display the first 10 lines
 
 6-third_line
-displays the third line 
+displays the third line
+
+7-file
+creates a file 
 
 10-no_more_js
 deletes all the .js files 
