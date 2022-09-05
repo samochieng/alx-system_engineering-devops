@@ -45,3 +45,6 @@ Display lines containing the pattern “root”
 
 15-countthatword
 Display the number of lines that contain the pattern “bin”
+
+16-whatsnext
+pattern “root” and 3 lines after
