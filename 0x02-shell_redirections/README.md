@@ -7,6 +7,9 @@ displays a confused smiley
 2-hellofile
 content of the /etc/passwd
 
+3-twofiles
+Display the content of 2 files
+
 10-no_more_js
 deletes all the .js files 
 
