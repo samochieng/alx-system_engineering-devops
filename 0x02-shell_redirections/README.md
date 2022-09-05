@@ -48,3 +48,6 @@ Display the number of lines that contain the pattern “bin”
 
 16-whatsnext
 pattern “root” and 3 lines after
+
+17-hidethisword
+do not contain the pattern “bin”
