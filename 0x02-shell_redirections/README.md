@@ -57,3 +57,6 @@ Display all lines starting with a letter
 
 19-AZ
 Replace all characters A and c from input to Z and e
+
+20-hiago
+removes all letters c and C
