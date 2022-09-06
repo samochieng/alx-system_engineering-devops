@@ -33,3 +33,9 @@ BREATH to the power LOVE
 
 11-binary_to_decimal
 converts a number from base 2 to base 10
+
+12-combinations
+prints all possible combinations
+
+13-print_float
+prints a number with two decimal places
