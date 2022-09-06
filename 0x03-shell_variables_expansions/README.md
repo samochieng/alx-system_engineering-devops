@@ -4,3 +4,6 @@ script that creates an alias
 4-global_variables
 lists environment variables.
 
+6-create_local_variable
+creates a new local variable
+
