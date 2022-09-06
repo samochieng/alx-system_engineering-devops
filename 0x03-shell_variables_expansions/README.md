@@ -13,6 +13,8 @@ counts the number of directories in the PATH
 5-local_variables
 lists all local variables and environment variables, and functions
 
+7-create_global_variable
+creates a new global variable
 
 4-global_variables
 lists environment variables.
