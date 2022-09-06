@@ -1,6 +1,9 @@
 0-alias
 script that creates an alias
 
+1-hello_you
+prints hello user
+
 4-global_variables
 lists environment variables.
 
