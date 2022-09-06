@@ -25,4 +25,5 @@ creates a new global variable
 8-true_knowledge
 prints the result of the addition
 
-
+9-divide_and_rule
+result of POWER divided by DIVIDE
