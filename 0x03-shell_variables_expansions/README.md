@@ -30,3 +30,6 @@ result of POWER divided by DIVIDE
 
 10-love_exponent_breath
 BREATH to the power LOVE
+
+11-binary_to_decimal
+converts a number from base 2 to base 10
